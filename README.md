@@ -1,2 +1,3 @@
-# Telegram-Sentiment-Analyzer
-Sentiment analysis on the twitter comment data-set of kaggle. The word embeddings are done using the pretrained glove.6B.50d.
+
+It is a Telegram Group Sentiment Analysis Bot.
+It tells that a member sentiment of that group
