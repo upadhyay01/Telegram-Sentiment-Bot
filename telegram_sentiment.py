@@ -24,7 +24,7 @@ def error(update,context):
     logger.warning('Update "%s" caused "%s" error',update,context.error)
     
 def main():
-    Token="5462812124:AAHzZGLTjH1bUiHONKrdpRwahyihbAi1OF8"
+    Token="5462812124:AAHzZGLTjHXXXXXXXXXXXX"
     updater = Updater(Token, use_context = True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start",start))
